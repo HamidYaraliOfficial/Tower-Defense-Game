@@ -18,13 +18,6 @@ A strategic and engaging Tower Defense game built with HTML, CSS, and JavaScript
 5. **Manage Resources**: Earn money by defeating enemies and use it to build or upgrade towers.
 6. **Objective**: Prevent enemies from reaching the end of the path. You start with 20 lives.
 
-## Installation
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/tower-defense-game.git
-   ```
-2. Open `index.html` in a web browser to start the game.
-
 ## Requirements
 - A modern web browser (Chrome, Firefox, Safari, etc.)
 - No additional dependencies required.
@@ -57,13 +50,6 @@ This project is licensed under the MIT License.
 5. **مدیریت منابع**: با نابودی دشمنان پول کسب کنید و از آن برای ساخت یا ارتقای برج‌ها استفاده کنید.
 6. **هدف**: از رسیدن دشمنان به انتهای مسیر جلوگیری کنید. شما با 20 جان شروع می‌کنید.
 
-## نصب
-1. مخزن را کلون کنید:
-   ```bash
-   git clone https://github.com/your-username/tower-defense-game.git
-   ```
-2. فایل `index.html` را در مرورگر وب باز کنید تا بازی شروع شود.
-
 ## پیش‌نیازها
 - یک مرورگر وب مدرن (کروم، فایرفاکس، سافاری و غیره)
 - بدون نیاز به وابستگی‌های اضافی.
@@ -95,13 +81,6 @@ This project is licensed under the MIT License.
 4. **开始波次**：点击“开始波次”生成敌人。坚持10波以获胜。
 5. **管理资源**：通过击败敌人赚取金币，并用它来建造或升级塔楼。
 6. **目标**：阻止敌人到达路径终点。您有20条生命。
-
-## 安装
-1. 克隆仓库：
-   ```bash
-   git clone https://github.com/your-username/tower-defense-game.git
-   ```
-2. 在网络浏览器中打开 `index.html` 以开始游戏。
 
 ## 要求
 - 现代网络浏览器（Chrome、Firefox、Safari 等）
